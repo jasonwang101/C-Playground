@@ -1,0 +1,6 @@
+﻿  func.cpp
+  func.h
+  Source.cpp
+  Generating Code...
+Debug\func.obj : warning LNK4042: object specified more than once; extras ignored
+  FunctionOverloading.vcxproj -> C:\Users\jaswang\source\repos\ModernC++\Debug\FunctionOverloading.exe

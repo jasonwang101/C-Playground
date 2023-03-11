@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jaswang\source\repos\ModernC++\FirstProgram\main.cpp(24,9): warning C4101: 'arr': unreferenced local variable
+  FirstProgram.vcxproj -> C:\Users\jaswang\source\repos\ModernC++\Debug\FirstProgram.exe

@@ -1,0 +1,8 @@
+﻿  Integer.cpp
+  Number.cpp
+  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MoveSemantics.vcxproj -> C:\Users\jaswang\source\repos\ModernC++\Release\MoveSemantics.exe

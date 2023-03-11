@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\jaswang\source\repos\ModernC++\StandardTemplateLibrary\Source.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaswang\source\repos\ModernC++\StandardTemplateLibrary\Source.cpp(27,13): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\jaswang\source\repos\ModernC++\StandardTemplateLibrary\Source.cpp(211,22): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\jaswang\source\repos\ModernC++\StandardTemplateLibrary\Source.cpp(212,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\jaswang\source\repos\ModernC++\StandardTemplateLibrary\Source.cpp(213,21): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\jaswang\source\repos\ModernC++\StandardTemplateLibrary\Source.cpp(226,22): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\jaswang\source\repos\ModernC++\StandardTemplateLibrary\Source.cpp(227,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\jaswang\source\repos\ModernC++\StandardTemplateLibrary\Source.cpp(228,21): warning C4834: discarding return value of function with 'nodiscard' attribute
+  StandardTemplateLibrary.vcxproj -> C:\Users\jaswang\source\repos\ModernC++\Debug\StandardTemplateLibrary.exe
